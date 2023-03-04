@@ -1,0 +1,81 @@
+.sideimg{
+    height: 600px;
+    width: 700px;
+    padding-left: 80px;
+}
+.google{
+    height: 22px;
+    width: 30px;
+    padding-right: 10px;
+    padding-top: 3px;
+}
+nav{
+    background-color: #343a40;
+    background-position: 200%;
+    padding: 30px;
+    color: white;
+}
+.table{
+    padding-top: 25px;
+    padding-left: 200px;
+    padding-right: 50px;
+}
+input{
+    padding: 10px;
+    padding-right: 120px;
+}
+.form-check-label{
+    font-size: 18px;
+    padding-left: 50px;
+}
+.btn1{
+    padding: 15px;
+    font-size: 17px;
+    cursor: pointer;
+    padding-left: 145px;
+    padding-right: 145px;
+    background-color: rgba(42, 52, 70, 0.616);
+    color: white;
+}
+.btn2{
+    padding: 7px;
+    font-size: 17px;
+    cursor: pointer;
+    padding-left: 75px;
+    padding-right: 75px;
+    background-color: rgba(42, 52, 70, 0.616);
+    color: white;
+}
+.text-center{
+    font-size: 18px;
+    padding-left: 45px;
+}
+.or{
+    font-size: 25px;
+    padding-left: 140px;
+}
+.link{
+    color: rgba(19, 24, 32, 0.616);
+    text-decoration: none;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wel{
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+    padding-left: 15px;
+}
+.wel:hover,#a:hover,#i:hover,#r:hover,#c:hover{
+    color: rgba(230, 234, 243, 0.616);
+}
+#a,#i,#r,#c{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 25px;
+}
+.btn1:hover,.btn2:hover{
+    background-color: #646a70;
+}
